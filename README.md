@@ -1,2 +1,2 @@
-# Kaggle-Brain-Tumour
-custom cnn to detect tumours from MRI scans; an attempt at kaggle project
+this is an attempt to complete this challenge  : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/code
+
